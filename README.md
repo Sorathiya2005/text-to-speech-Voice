@@ -2,9 +2,6 @@ Live Wesite :-  https://sorathiya2005.github.io/text-to-speech-Voice/
 
 # Text to Speech Using Web Speech API in JavaScript
 
-If you'd like to learn how to build this application, refer to [this article](https://zolomohan.hashnode.dev/text-to-speech-using-the-web-speech-api-in-javascript).
-
-
 
 Text-to-speech convert is a technology that enables computers to read out loud the text displayed on a screen or document file. It’s a useful tool for those with reading difficulties or visual impairments, but it also has practical applications for anyone who wants to listen to written content while multitasking, driving, or simply resting their eyes.
 
