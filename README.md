@@ -12,8 +12,6 @@ In this blog, we’ll explore how text-to-speech convert works and how to use it
 
 1. Understanding Text-to-Speech (TTS) technology
 
-![image](https://user-images.githubusercontent.com/102504625/225195030-728b7798-0629-4cc7-b772-8c01ce0b7f2f.png)
-
 
 
 Text-to-speech (TTS) technology is a process that involves converting written text into audio speech. The technology uses computer algorithms to analyze the text’s structure and syntax, then creates and plays back an audio recording of the text. This recording can be saved as a file or output through a speaker.
@@ -33,10 +31,6 @@ Text-to-speech technology has several benefits that make it a useful and conveni
 - Improves comprehension and retention of information
 - Provides an alternative to traditional audiobooks
 - Can be customized to fit individual preferences, such as voice type, speed, and pitch
-
-
-![image](https://user-images.githubusercontent.com/102504625/225195269-7c2e8b0b-58a3-4502-8548-8461c5073bae.png)
-
 
 
 4. Using Text-to-Speech Convert
